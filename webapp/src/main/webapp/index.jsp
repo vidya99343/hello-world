@@ -32,6 +32,5 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-  <h1> vidya sagar </h1>
-  
+    
 </form>
